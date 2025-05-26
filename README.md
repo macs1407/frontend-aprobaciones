@@ -59,7 +59,3 @@ chmod +x deploy-frontend.sh
 ```
 
 > Asegúrate de que el bucket S3 tenga habilitado el hosting estático y permita lectura pública o tenga una distribución de CloudFront configurada.
-
-## Licencia
-
-MIT
